@@ -1,7 +1,7 @@
 <div align="center">  
 <p align="center">
 <br>
-<img width="500" src="https://metrics.lecoq.io/Pinzauti" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/COsimoMichelagnoli" alt="Github Metrics">
 <br>
 </p>
 
