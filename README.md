@@ -1,14 +1,9 @@
-<div align="center">  
-<p align="center">
-<br>
-<img width="500" src="https://metrics.lecoq.io/COsimoMichelagnoli" alt="Github Metrics">
-<br>
-</p>
 
-|[![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoMichelagnoli&count_private=true&hide=contribs,stars)](https://github.com/anuraghazra/github-readme-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoMichelagnoli&layout=compact&langs_count=10&hide=php,scss,html,css)|
-|-|-|
-  
-</div>
+[![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoMichelagnoli&count_private=true&title_color=FFFFFF&icon_color=79FE0C&show_icons=true&hide_border=true&bg_color=00000000&text_color=808080&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoMichelagnoli&layout=compact&theme=tokyonight&text_color=79FE0C&title_color=FFFFFF&langs_count=10&hide_border=true&bg_color=00000000&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## What I'm learning 🎓
 [<img src="https://img.icons8.com/dusk/64/000000/amazon.png" width="40px" alt="AWS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://aws.amazon.com/)
