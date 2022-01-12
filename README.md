@@ -1,7 +1,7 @@
 
-[![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoMichelagnoli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoMichelagnoli&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoMichelagnoli&layout=compact&theme=tokyonight&text_color=79FE0C&title_color=FFFFFF&langs_count=10&hide_border=true&bg_color=00000000&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoMichelagnoli&layout=compact&theme=dark&text_color=79FE0C&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
