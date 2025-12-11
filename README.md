@@ -1,18 +1,41 @@
+# Hi there, I'm Cosimo! 👋
 
-[![Cosimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosimoMichelagnoli&hide_border=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔐 Cybersecurity Enthusiast | ☁️ Cloud & DevOps Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CosimoMichelagnoli&theme=dark&layout=compact&hide_border=true&text_color=0CFE18&hide=php,scss,html,css,cmake,Makefile,Jupyter%20Notebook,Shell)](https://github.com/anuraghazra/github-readme-stats)
+Benvenuto nel mio profilo! Sono uno sviluppatore appassionato di infrastrutture sicure e scalabili. Attualmente mi sto focalizzando sull'intersezione tra **Cloud Automation** e **Application Security**.
 
-## My favourite tools 🔨
+---
 
-[<img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40px" alt="Jenkins">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.jenkins.io/)
-[<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="40px" alt="VS Code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://code.visualstudio.com/api/references/vscode-api)
-[<img src="https://img.icons8.com/dusk/64/000000/python.png" width="40px" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/golang.png" width="40px" alt="Go">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://go.dev/)
-[<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="40px" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.java.com/it/)
+### 🚀 What I do
 
-## What I'm learning 🎓
-[<img src="https://img.icons8.com/dusk/64/000000/amazon.png" width="40px" alt="AWS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://aws.amazon.com/)
-[<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="40px" alt="Kubernetes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://kubernetes.io/)
-[<img src="https://img.icons8.com/dusk/64/000000/docker.png" width="40px" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.docker.com/)
-[<img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40px" alt="Linux">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linux.it/)
+* 🔭 **Cybersecurity:** Analizzo la sicurezza delle applicazioni web utilizzando strumenti come **Burp Suite** e pratiche di Penetration Testing.
+* ☁️ **Cloud Native:** Costruisco e gestisco infrastrutture moderne utilizzando **Terraform** (IaC), **Kubernetes**, **Google Cloud** e **Scaleway**.
+* ⚛️ **Quantum Hobbyist:** Nel tempo libero, esploro il mondo probabilistico del **Quantum Computing**. Sto studiando i principi della meccanica quantistica applicata all'informatica.
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Security & Networking**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB5B44?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+#### **Cloud & DevOps**
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Scaleway](https://img.shields.io/badge/Scaleway-4f0599?style=for-the-badge&logo=scaleway&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+<div align="center">
+  <i>"I think I can safely say that nobody understands quantum mechanics."</i> — Richard Feynman<br>
+  (But I'm trying to! ⚛️)
+</div>
